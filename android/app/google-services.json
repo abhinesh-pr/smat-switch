@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073326429668",
+    "project_id": "smart-hub-13f70",
+    "storage_bucket": "smart-hub-13f70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073326429668:android:34a308b82fa03928d9e3f1",
+        "android_client_info": {
+          "package_name": "com.strixz.smarthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAViemv2COHqT4-CS5R41-n5ytXEKa79oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
